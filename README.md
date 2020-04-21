@@ -1,5 +1,9 @@
 # ⇪ Caps Drag
-Break free from the shackles of dragging stuff on your mac. Maybe this isn't a problem for anyone else (?), but using the first gen Apple track pad I have at home these past few weeks of quarantine has been _killing_ my forearm. Seriously. Fearing RSI, carpal tunnel, I put my head down and found a better way.
+Do you drag stuff? Do you drop it? Do you have long finger nails? Caps Drag might be for you.
+
+Break free from the handcuffs of dragging stuff on your mac. Lifehack for anyone with accessibility needs to _barely lift a pinky finger_ in their daily work. 
+
+Literally drag by barely lifting your pinky finger.
 
 ## Problem to solve
 - break free from the tyranny of longpress while dragging
@@ -13,3 +17,8 @@ Setup requires mapping an accessibility switch to drag, mapping that key to caps
 1. hit F13 on external keyboard
 1. Place **com.user.hidutilScript.plist** in `{user}/Library/LaunchAgents/com.user.hidutilScript.plist`
 1. Move **hidutilScript.zsh** to `{user}/Library/logs/hidutilScript.zsh`
+
+## To do
+- [ ] validate whether this deserves even a minute more time. Does anyone benefit from this?
+- [ ] does Magic Trackpad gen 2 solve this? If hard press on gen 1 goes away, is there still a need?
+- [ ] touchbar laptops: need to learn more about touchbar button mappings; Apple’s technical note [TN2450](https://developer.apple.com/library/archive/technotes/tn2450/_index.html) pertains to USB keyboard spec, so only seems to work for connected keyboards
