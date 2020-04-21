@@ -1,13 +1,17 @@
 # ⇪ Caps Drag
-Do you drag stuff? Do you drop it? Do you have long finger nails? Caps Drag might be for you.
+Do you drag stuff? Do you drop it? Do you like using CAPS LOCK? Do you have long finger nails and gentle hands like me? 
 
-Break free from the handcuffs of dragging stuff on your mac. Lifehack for anyone with accessibility needs to _barely lift a pinky finger_ in their daily work. 
+If you answered yes and no to those questions, **⇪ Caps Drag** might be for you.
 
-Literally drag by barely lifting your pinky finger.
+It's for anyone who _ya, now that you mention it, dragging stuff **does feels like being handcuffed** to my mac_. A productivity and ergonomics hack for anyone with accessibility needs to _barely lift a pinky finger_ in their daily work.
+
+With **⇪ Caps Drag**, you can literally drag and scrub and resize and draw boxes by _barely_ lifting your pinky finger. Your left pinky finger. And putting it on the caps lock key. While effortlessly waving your right pointer’s across your trackpad.
+
+No more claw hands contorting, clenching, killing. Relax. Lift those pinkies. Do more better and faster. Everything is fine now.
 
 ## Problem to solve
 - break free from the tyranny of longpress while dragging
-- leverage macOS’s accessibility settings for alternative control methords, while circumventing their keystroke limitations
+- leverage macOS’s accessibility settings for alternative control methods, while circumventing their keystroke limitations
 - repurpose unused ⇪ `caps lock` key, toggling drag by _ever so slightly_ lifting a pinky finger on your left hand
 
 ## Quick start
@@ -22,3 +26,14 @@ Setup requires mapping an accessibility switch to drag, mapping that key to caps
 - [ ] validate whether this deserves even a minute more time. Does anyone benefit from this?
 - [ ] does Magic Trackpad gen 2 solve this? If hard press on gen 1 goes away, is there still a need?
 - [ ] touchbar laptops: need to learn more about touchbar button mappings; Apple’s technical note [TN2450](https://developer.apple.com/library/archive/technotes/tn2450/_index.html) pertains to USB keyboard spec, so only seems to work for connected keyboards
+- [ ] bundle as a one-time download and install utility
+- [ ] icon, brand, marketing ?!
+
+## FAQ
+> But what if I still want to use caps lock?
+
+Don’t. Just stop.
+
+
+
+
