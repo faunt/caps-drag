@@ -6,7 +6,7 @@
 	<string>com.user.hidutilScript</string>
 	<key>ProgramArguments</key>
 		<array>
-			<string>/Users/dmorgan/Library/Logs/hidutilScript.zsh</string>
+			<string>/Users/{your-username}/Library/Logs/hidutilScript.zsh</string>
 		</array>
 	<key>RunAtLoad</key>
 	<true/>
